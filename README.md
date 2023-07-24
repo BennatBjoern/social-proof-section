@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontendmentor]()
-- Live Site URL: [Github pages]()
+- Solution URL: [Frontendmentor](https://www.frontendmentor.io/solutions/social-proof-section-using-flexbox-o3aSiidG7Q)
+- Live Site URL: [Github pages](https://bennatbjoern.github.io/social-proof-section/)
 
 ## My process
 
